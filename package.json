@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "init": "fusuma init",
     "start": "fusuma start",
     "start:prod": "fusuma start-prod",
     "build": "fusuma build",
