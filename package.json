@@ -1,0 +1,21 @@
+{
+  "name": "fusuma-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "fusuma init",
+    "start": "fusuma start",
+    "start-prod": "npm run build && fusuma start-prod",
+    "build": "fusuma build",
+    "deploy": "npm run build && fusuma deploy",
+    "make-pdf": "npm run build && fusuma pdf"
+  },
+  "keywords": [],
+  "author": "dastasoft <dastasoft@protonmail.com> (https://dastasoft.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "@fusuma/task-pdf": "^2.8.1",
+    "fusuma": "^2.8.2"
+  }
+}
