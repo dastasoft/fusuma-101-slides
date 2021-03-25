@@ -15,7 +15,6 @@
   "author": "dastasoft <dastasoft@protonmail.com> (https://dastasoft.com)",
   "license": "MIT",
   "devDependencies": {
-    "@fusuma/task-pdf": "^2.8.1",
     "fusuma": "^2.8.2"
   }
 }
