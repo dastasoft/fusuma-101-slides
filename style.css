@@ -4,7 +4,7 @@
 /* @import '@fusuma/client/assets/style/themes/pop.css'; */
 /* @import '@fusuma/client/assets/style/themes/babel.css'; */
 /* @import '@fusuma/client/assets/style/themes/webpack.css'; */
-@import "@fusuma/client/assets/style/themes/node.css";
+/* @import '@fusuma/client/assets/style/themes/node.css'; */
 
 /* global config */
 /* When you want to change the default values, please uncomment. */
@@ -25,16 +25,9 @@
 /* --account-icon-size: 3rem; */
 /* } */
 
-.sns-box {
-  margin: 20px;
-
-  & > * {
-    &:not(:first-child) {
-      margin-left: 20px;
-    }
-  }
+.title {
 }
 
-.slide-internal-box > * {
-  margin: 1rem 0;
+/* https://hiroppy.github.io/fusuma/docs/guides/slide-syntax#declaring-section-title */
+.section-title {
 }

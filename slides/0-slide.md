@@ -1,13 +1,13 @@
-<!-- note
-Some speaker notes for you!
--->
+<!-- classes: title -->
 
+# Hello😃
 
-# Present like a pro with Fusuma and MD 🚀
-
-[dastasoft](https://dastasoft.com)
-
-<!-- block-start: grid, sns-box -->
-<!-- account: github, dastasoft -->
-<!-- account: linkedin, dastasoft -->
+<!-- block-start: grid -->
+<!-- account: twitter, your-account-name -->
 <!-- block-end -->
+
+---
+
+<!-- section-title: Bye👋 -->
+
+## Bye👋

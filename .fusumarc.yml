@@ -1,19 +1,17 @@
 meta:
-  url: https://fusuma-101-slides.netlify.app
-  title: Present like a pro with Fusuma and MD
-  description: Create slides quickly and easily with this amazing tool, make presentations like a pro.
-  siteName: Fusuma 101
-  sns: []
+  url:
+  title:
+  description:
+  siteName:
+  sns: ['twitter']
 slide:
   loop: false
   ui:
     sidebar: true
-    pagination: bullets # bullets | progressbar | fraction
+    vertical: false
+    pagination: # bullets | progressbar | fraction
     effect: # fade | cube | flip
   code:
     # https://prismjs.com/
-    languages:
-      - html
-      - javascript
     plugins: []
     theme: default # coy | dark | funky | okaidia | solarizedlight | tomorrow | twilight
