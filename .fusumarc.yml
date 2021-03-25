@@ -1,17 +1,25 @@
 meta:
   url:
-  title:
-  description:
-  siteName:
-  sns: ['twitter']
+  title: Present like a pro with Fusuma and MD
+  description: Create slides quickly and easily with this amazing tool, make presentations like a pro.
+  siteName: Fusuma 101
+  sns:
+    - github
+    - linkedin
 slide:
   loop: false
   ui:
     sidebar: true
     vertical: false
-    pagination: # bullets | progressbar | fraction
+    pagination: bullets # bullets | progressbar | fraction
     effect: # fade | cube | flip
   code:
     # https://prismjs.com/
+    languages:
+      - html
+      - javascript
+      - json
+      - sh
+      - css
     plugins: []
     theme: default # coy | dark | funky | okaidia | solarizedlight | tomorrow | twilight
