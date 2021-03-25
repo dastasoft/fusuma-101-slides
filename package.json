@@ -12,7 +12,7 @@
     "pdf": "npm run build && fusuma pdf"
   },
   "keywords": [],
-  "author": "",
+  "author": "dastasoft <dastasoft@protonmail.com> (https://dastasoft.com)",
   "license": "MIT",
   "devDependencies": {
     "fusuma": "^2.8.2"
